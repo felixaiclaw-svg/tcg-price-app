@@ -1,0 +1,58 @@
+{
+  "card_name_jp": "ミミッキュ",
+  "card_name_en": "Mimikyu",
+  "card_name_zh": "謎擬丘",
+  "game": "Pokemon TCG",
+  "language": "JP",
+  "language_name": "日文",
+  "set": "Sun & Moon Promos",
+  "set_code": "SM-P",
+  "number": "289/SM-P",
+  "rarity": "Promo",
+  "hp": 70,
+  "type": "Psychic",
+  "stage": "Basic",
+  "artist": "Akira Komayama",
+  "release_date": "2019-11",
+  "price_estimate": {
+    "JP": {
+      "currency": "JPY",
+      "min": 300,
+      "avg": 500,
+      "max": 800
+    },
+    "EN": {
+      "currency": "USD",
+      "min": 3,
+      "avg": 5,
+      "max": 8
+    }
+  },
+  "price_conversion": {
+    "MOP": 40,
+    "HKD": 39,
+    "RMB": 36
+  },
+  "market_sources": [
+    {
+      "website": "snkrdunk",
+      "url": "https://www.snkrdunk.com/search?keyword=ミミッキュ+289/SM-P",
+      "currency": "JPY",
+      "estimated_price": 500
+    },
+    {
+      "website": "Mercari",
+      "url": "https://www.mercari.com/jp/search/?keyword=ミミッキュ+SM-P",
+      "currency": "JPY",
+      "estimated_price": 450
+    },
+    {
+      "website": "yuyu-tei.jp",
+      "url": "https://yuyu-tei.jp/game/sale/mimikyu",
+      "currency": "JPY",
+      "estimated_price": 550
+    }
+  ],
+  "language_multiplier": 1.0,
+  "notes": "日文版 Promo 卡，價格親民，適合收藏"
+}
